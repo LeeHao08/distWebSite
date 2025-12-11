@@ -1,0 +1,1 @@
+import{aB as e,B as c,C as a}from"./index-BiOdxb4z.js";const s={},t={class:"diduan"};function n(o,_){return a(),c("div",t)}const d=e(s,[["render",n],["__scopeId","data-v-517a7ff5"]]);export{d as default};

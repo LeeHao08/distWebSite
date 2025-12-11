@@ -1,1 +1,0 @@
-import{ak as e,y as c,z as a}from"./index-ZHHO0x3v.js";const s={},t={class:"diduan"};function n(o,_){return a(),c("div",t)}const d=e(s,[["render",n],["__scopeId","data-v-517a7ff5"]]);export{d as default};
